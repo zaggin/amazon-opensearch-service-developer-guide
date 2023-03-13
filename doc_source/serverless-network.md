@@ -35,7 +35,7 @@ In this sample policy, the first rule specifies VPC access to both the collectio
             ]
          },
          {
-            "ResourceType":"dashboards",
+            "ResourceType":"dashboard",
             "Resource":[
                "collection/marketing*"
             ]
